@@ -1,5 +1,5 @@
 # Mention.js
-
+这是github上的一个例子，在项目中需要@人时候，弹出人员信息，对此进行了一定的扩展，可以定制@时候默认弹出的函数，需要对应的后台做一个rest，同时改进了计算@输入后判断输入字数时候得提醒
 <img src="http://i.imgur.com/pCvqL.png">
 
 Lightweight (min: 1.92kb, full: 4.07kb) wrapper for adding @user mention functionality to Twitter Bootstraps Typeahead plugin.
