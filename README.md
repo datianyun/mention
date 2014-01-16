@@ -1,5 +1,5 @@
 # Mention.js
-这是github上的一个例子，在项目中需要@人时候，弹出人员信息，对此进行了一定的扩展，可以定制@时候默认弹出的函数，需要对应的后台做一个rest，同时改进了计算@输入后判断输入字数时候得提醒
+锟斤拷锟斤拷github锟较碉拷一锟斤拷锟斤拷锟接ｏ拷锟斤拷锟斤拷目锟斤拷锟斤拷要@锟斤拷时锟津，碉拷锟斤拷锟斤拷员锟斤拷息锟斤拷锟皆此斤拷锟斤拷锟斤拷一锟斤拷锟斤拷锟斤拷展锟斤拷锟斤拷锟皆讹拷锟斤拷@时锟斤拷默锟较碉拷锟斤拷锟侥猴拷锟斤拷锟斤拷锟斤拷要锟斤拷应锟侥猴拷台锟斤拷一锟斤拷rest锟斤拷同时锟侥斤拷锟剿硷拷锟斤拷@锟斤拷锟斤拷锟斤拷锟叫讹拷锟斤拷锟斤拷锟斤拷锟斤拷时锟斤拷锟斤拷锟斤拷锟斤拷
 <img src="http://i.imgur.com/pCvqL.png">
 
 Lightweight (min: 1.92kb, full: 4.07kb) wrapper for adding @user mention functionality to Twitter Bootstraps Typeahead plugin.
@@ -108,25 +108,4 @@ $("#multi-users").mention({
  
 ### License
 
-(The MIT license)
 
-Copyright (c) 2013 Jacob Kelley
-
-Permission is hereby granted, free of charge, to any person obtaining
-a copy of this software and associated documentation files (the
-"Software"), to deal in the Software without restriction, including
-without limitation the rights to use, copy, modify, merge, publish,
-distribute, sublicense, and/or sell copies of the Software, and to
-permit persons to whom the Software is furnished to do so, subject to
-the following conditions:
-
-The above copyright notice and this permission notice shall be
-included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
-NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
-LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
-OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
-WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
