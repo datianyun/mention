@@ -1,19 +1,16 @@
 # Mention.js
-����github�ϵ�һ�����ӣ�����Ŀ����Ҫ@��ʱ�򣬵�����Ա��Ϣ���Դ˽�����һ������չ�����Զ���@ʱ��Ĭ�ϵ����ĺ�������Ҫ��Ӧ�ĺ�̨��һ��rest��ͬʱ�Ľ��˼���@�������ж���������ʱ��������
+在mention.js基础上结合项目实际进行的修改，在@后立即进行请求，同时在选定人员后进行空格处理，以及在@后进行人员信息格式的筛选
 <img src="http://i.imgur.com/pCvqL.png">
 
-Lightweight (min: 1.92kb, full: 4.07kb) wrapper for adding @user mention functionality to Twitter Bootstraps Typeahead plugin.
 
-This enables you to have Twitter-like user mentions in textareas
 
-<b>View the demo <a href="http://jakiestfu.github.com/Mention.js/" target="_blank">here</a>.</b>
 
-## Dependencies
+## 以来Dependencies
 * <a href="https://github.com/jquery/jquery" target="_blank">jQuery</a>
 * <a href="https://github.com/twitter/bootstrap" target="_blank">Typeahead</a>
 
-## Usage
-The `users` parameter accepts an array of objects. Each object ***must*** have a username key in order for this script to work.
+##用法
+
 
 `````javascript
 $("#multi-users").mention({
@@ -28,7 +25,7 @@ $("#multi-users").mention({
 });
 `````
 
-## Sensitivity
+## 用户实例
 `````javascript
 $("#multi-users").mention({
     sensitive: true,
